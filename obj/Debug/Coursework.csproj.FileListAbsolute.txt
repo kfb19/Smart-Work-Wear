@@ -1,0 +1,164 @@
+Z:\KFBELSON\Visual Studio 2017\Projects\CW\Coursework\Coursework\obj\Debug\Coursework.Properties.Resources.resources
+Z:\KFBELSON\Visual Studio 2017\Projects\CW\Coursework\Coursework\obj\Debug\Coursework.csproj.GenerateResource.cache
+Z:\KFBELSON\Visual Studio 2017\Projects\CW\Coursework\Coursework\obj\Debug\Coursework.csprojResolveAssemblyReference.cache
+Z:\KFBELSON\Visual Studio 2017\Projects\CW\Coursework\Coursework\obj\Debug\Coursework.Form1.resources
+Z:\KFBELSON\Visual Studio 2017\Projects\CW\Coursework\Coursework\obj\Debug\Coursework.frmAddCompany.resources
+Z:\KFBELSON\Visual Studio 2017\Projects\CW\Coursework\Coursework\obj\Debug\Coursework.frmAddGarment.resources
+Z:\KFBELSON\Visual Studio 2017\Projects\CW\Coursework\Coursework\obj\Debug\Coursework.frmAddNest.resources
+Z:\KFBELSON\Visual Studio 2017\Projects\CW\Coursework\Coursework\obj\Debug\Coursework.frmAddUser.resources
+Z:\KFBELSON\Visual Studio 2017\Projects\CW\Coursework\Coursework\obj\Debug\Coursework.frmChangeMyDetails.resources
+Z:\KFBELSON\Visual Studio 2017\Projects\CW\Coursework\Coursework\obj\Debug\Coursework.frmCompaniesHomepage.resources
+Z:\KFBELSON\Visual Studio 2017\Projects\CW\Coursework\Coursework\bin\Debug\Coursework.exe.config
+Z:\KFBELSON\Visual Studio 2017\Projects\CW\Coursework\Coursework\bin\Debug\Coursework.exe
+Z:\KFBELSON\Visual Studio 2017\Projects\CW\Coursework\Coursework\bin\Debug\Coursework.pdb
+Z:\KFBELSON\Visual Studio 2017\Projects\CW\Coursework\Coursework\obj\Debug\Coursework.frmDeleteCompany.resources
+Z:\KFBELSON\Visual Studio 2017\Projects\CW\Coursework\Coursework\obj\Debug\Coursework.frmDeleteUser.resources
+Z:\KFBELSON\Visual Studio 2017\Projects\CW\Coursework\Coursework\obj\Debug\Coursework.frmEditCompanyDetails.resources
+Z:\KFBELSON\Visual Studio 2017\Projects\CW\Coursework\Coursework\obj\Debug\Coursework.frmEditEmployees.resources
+Z:\KFBELSON\Visual Studio 2017\Projects\CW\Coursework\Coursework\obj\Debug\Coursework.frmEditUserDetails.resources
+Z:\KFBELSON\Visual Studio 2017\Projects\CW\Coursework\Coursework\obj\Debug\Coursework.frmLogin.resources
+Z:\KFBELSON\Visual Studio 2017\Projects\CW\Coursework\Coursework\obj\Debug\Coursework.frmNestStatus.resources
+Z:\KFBELSON\Visual Studio 2017\Projects\CW\Coursework\Coursework\obj\Debug\Coursework.frmSuperuserHomepage.resources
+Z:\KFBELSON\Visual Studio 2017\Projects\CW\Coursework\Coursework\obj\Debug\Coursework.frmSuperuserViewCompanies.resources
+Z:\KFBELSON\Visual Studio 2017\Projects\CW\Coursework\Coursework\obj\Debug\Coursework.frmUserDetails.resources
+Z:\KFBELSON\Visual Studio 2017\Projects\CW\Coursework\Coursework\obj\Debug\Coursework.frmUserHomepage.resources
+Z:\KFBELSON\Visual Studio 2017\Projects\CW\Coursework\Coursework\obj\Debug\Coursework.frmViewCompanies.resources
+Z:\KFBELSON\Visual Studio 2017\Projects\CW\Coursework\Coursework\obj\Debug\Coursework.frmViewEmployees.resources
+Z:\KFBELSON\Visual Studio 2017\Projects\CW\Coursework\Coursework\obj\Debug\Coursework.frmViewNests.resources
+Z:\KFBELSON\Visual Studio 2017\Projects\CW\Coursework\Coursework\obj\Debug\Coursework.frmViewSuperusers.resources
+Z:\KFBELSON\Visual Studio 2017\Projects\CW\Coursework\Coursework\obj\Debug\Coursework.exe
+Z:\KFBELSON\Visual Studio 2017\Projects\CW\Coursework\Coursework\obj\Debug\Coursework.pdb
+Z:\KFBELSON\Visual Studio 2017\Projects\CW\Coursework\Coursework\obj\Debug\Coursework.frmUserStatistics.resources
+F:\CW\Coursework\Coursework\bin\Debug\Coursework.exe.config
+F:\CW\Coursework\Coursework\bin\Debug\Coursework.exe
+F:\CW\Coursework\Coursework\bin\Debug\Coursework.pdb
+F:\CW\Coursework\Coursework\obj\Debug\Coursework.csprojResolveAssemblyReference.cache
+F:\CW\Coursework\Coursework\obj\Debug\Coursework.Form1.resources
+F:\CW\Coursework\Coursework\obj\Debug\Coursework.frmAddCompany.resources
+F:\CW\Coursework\Coursework\obj\Debug\Coursework.frmAddGarment.resources
+F:\CW\Coursework\Coursework\obj\Debug\Coursework.frmAddNest.resources
+F:\CW\Coursework\Coursework\obj\Debug\Coursework.frmAddUser.resources
+F:\CW\Coursework\Coursework\obj\Debug\Coursework.frmChangeMyDetails.resources
+F:\CW\Coursework\Coursework\obj\Debug\Coursework.frmCompaniesHomepage.resources
+F:\CW\Coursework\Coursework\obj\Debug\Coursework.frmDeleteCompany.resources
+F:\CW\Coursework\Coursework\obj\Debug\Coursework.frmDeleteUser.resources
+F:\CW\Coursework\Coursework\obj\Debug\Coursework.frmEditCompanyDetails.resources
+F:\CW\Coursework\Coursework\obj\Debug\Coursework.frmEditEmployees.resources
+F:\CW\Coursework\Coursework\obj\Debug\Coursework.frmEditUserDetails.resources
+F:\CW\Coursework\Coursework\obj\Debug\Coursework.frmLogin.resources
+F:\CW\Coursework\Coursework\obj\Debug\Coursework.frmNestStatus.resources
+F:\CW\Coursework\Coursework\obj\Debug\Coursework.frmSuperuserHomepage.resources
+F:\CW\Coursework\Coursework\obj\Debug\Coursework.frmSuperuserViewCompanies.resources
+F:\CW\Coursework\Coursework\obj\Debug\Coursework.frmUserDetails.resources
+F:\CW\Coursework\Coursework\obj\Debug\Coursework.frmUserHomepage.resources
+F:\CW\Coursework\Coursework\obj\Debug\Coursework.frmUserStatistics.resources
+F:\CW\Coursework\Coursework\obj\Debug\Coursework.frmViewCompanies.resources
+F:\CW\Coursework\Coursework\obj\Debug\Coursework.frmViewEmployees.resources
+F:\CW\Coursework\Coursework\obj\Debug\Coursework.frmViewNests.resources
+F:\CW\Coursework\Coursework\obj\Debug\Coursework.frmViewSuperusers.resources
+F:\CW\Coursework\Coursework\obj\Debug\Coursework.Properties.Resources.resources
+F:\CW\Coursework\Coursework\obj\Debug\Coursework.csproj.GenerateResource.Cache
+F:\CW\Coursework\Coursework\obj\Debug\Coursework.exe
+F:\CW\Coursework\Coursework\obj\Debug\Coursework.pdb
+C:\Users\kate\Documents\CW\Coursework\Coursework\bin\Debug\Coursework.exe.config
+C:\Users\kate\Documents\CW\Coursework\Coursework\bin\Debug\Coursework.exe
+C:\Users\kate\Documents\CW\Coursework\Coursework\bin\Debug\Coursework.pdb
+C:\Users\kate\Documents\CW\Coursework\Coursework\obj\Debug\Coursework.Form1.resources
+C:\Users\kate\Documents\CW\Coursework\Coursework\obj\Debug\Coursework.frmAddCompany.resources
+C:\Users\kate\Documents\CW\Coursework\Coursework\obj\Debug\Coursework.frmAddGarment.resources
+C:\Users\kate\Documents\CW\Coursework\Coursework\obj\Debug\Coursework.frmAddNest.resources
+C:\Users\kate\Documents\CW\Coursework\Coursework\obj\Debug\Coursework.frmAddUser.resources
+C:\Users\kate\Documents\CW\Coursework\Coursework\obj\Debug\Coursework.frmChangeMyDetails.resources
+C:\Users\kate\Documents\CW\Coursework\Coursework\obj\Debug\Coursework.frmCompaniesHomepage.resources
+C:\Users\kate\Documents\CW\Coursework\Coursework\obj\Debug\Coursework.frmDeleteCompany.resources
+C:\Users\kate\Documents\CW\Coursework\Coursework\obj\Debug\Coursework.frmDeleteUser.resources
+C:\Users\kate\Documents\CW\Coursework\Coursework\obj\Debug\Coursework.frmEditCompanyDetails.resources
+C:\Users\kate\Documents\CW\Coursework\Coursework\obj\Debug\Coursework.frmEditEmployees.resources
+C:\Users\kate\Documents\CW\Coursework\Coursework\obj\Debug\Coursework.frmEditUserDetails.resources
+C:\Users\kate\Documents\CW\Coursework\Coursework\obj\Debug\Coursework.frmLogin.resources
+C:\Users\kate\Documents\CW\Coursework\Coursework\obj\Debug\Coursework.frmNestStatus.resources
+C:\Users\kate\Documents\CW\Coursework\Coursework\obj\Debug\Coursework.frmSuperuserHomepage.resources
+C:\Users\kate\Documents\CW\Coursework\Coursework\obj\Debug\Coursework.frmSuperuserViewCompanies.resources
+C:\Users\kate\Documents\CW\Coursework\Coursework\obj\Debug\Coursework.frmUserDetails.resources
+C:\Users\kate\Documents\CW\Coursework\Coursework\obj\Debug\Coursework.frmUserHomepage.resources
+C:\Users\kate\Documents\CW\Coursework\Coursework\obj\Debug\Coursework.frmUserStatistics.resources
+C:\Users\kate\Documents\CW\Coursework\Coursework\obj\Debug\Coursework.frmViewCompanies.resources
+C:\Users\kate\Documents\CW\Coursework\Coursework\obj\Debug\Coursework.frmViewEmployees.resources
+C:\Users\kate\Documents\CW\Coursework\Coursework\obj\Debug\Coursework.frmViewNests.resources
+C:\Users\kate\Documents\CW\Coursework\Coursework\obj\Debug\Coursework.frmViewSuperusers.resources
+C:\Users\kate\Documents\CW\Coursework\Coursework\obj\Debug\Coursework.Properties.Resources.resources
+C:\Users\kate\Documents\CW\Coursework\Coursework\obj\Debug\Coursework.csproj.GenerateResource.Cache
+C:\Users\kate\Documents\CW\Coursework\Coursework\obj\Debug\Coursework.exe
+C:\Users\kate\Documents\CW\Coursework\Coursework\obj\Debug\Coursework.pdb
+Z:\KFBELSON\Visual Studio 2017\Projects\CW\Coursework\Coursework\obj\Debug\Coursework.frmSelectMACStatistics.resources
+C:\Users\kate\Documents\CW\Coursework\Coursework\obj\Debug\Coursework.frmSelectMACStatistics.resources
+C:\Users\kate\Documents\CW\Coursework\Coursework\obj\Debug\Coursework.csprojAssemblyReference.cache
+C:\Users\kate\Documents\CW\Coursework\Coursework\obj\Debug\Coursework.frmCompanyStatistics.resources
+E:\Coursework\Coursework\bin\Debug\Coursework.exe.config
+E:\Coursework\Coursework\bin\Debug\Coursework.exe
+E:\Coursework\Coursework\bin\Debug\Coursework.pdb
+E:\Coursework\Coursework\obj\Debug\Coursework.csprojAssemblyReference.cache
+E:\Coursework\Coursework\obj\Debug\Coursework.Form1.resources
+E:\Coursework\Coursework\obj\Debug\Coursework.frmAddCompany.resources
+E:\Coursework\Coursework\obj\Debug\Coursework.frmAddGarment.resources
+E:\Coursework\Coursework\obj\Debug\Coursework.frmAddNest.resources
+E:\Coursework\Coursework\obj\Debug\Coursework.frmAddUser.resources
+E:\Coursework\Coursework\obj\Debug\Coursework.frmChangeMyDetails.resources
+E:\Coursework\Coursework\obj\Debug\Coursework.frmCompaniesHomepage.resources
+E:\Coursework\Coursework\obj\Debug\Coursework.frmCompanyStatistics.resources
+E:\Coursework\Coursework\obj\Debug\Coursework.frmDeleteCompany.resources
+E:\Coursework\Coursework\obj\Debug\Coursework.frmDeleteUser.resources
+E:\Coursework\Coursework\obj\Debug\Coursework.frmEditCompanyDetails.resources
+E:\Coursework\Coursework\obj\Debug\Coursework.frmEditEmployees.resources
+E:\Coursework\Coursework\obj\Debug\Coursework.frmEditUserDetails.resources
+E:\Coursework\Coursework\obj\Debug\Coursework.frmLogin.resources
+E:\Coursework\Coursework\obj\Debug\Coursework.frmNestStatus.resources
+E:\Coursework\Coursework\obj\Debug\Coursework.frmSelectMACStatistics.resources
+E:\Coursework\Coursework\obj\Debug\Coursework.frmSuperuserHomepage.resources
+E:\Coursework\Coursework\obj\Debug\Coursework.frmSuperuserViewCompanies.resources
+E:\Coursework\Coursework\obj\Debug\Coursework.frmUserDetails.resources
+E:\Coursework\Coursework\obj\Debug\Coursework.frmUserHomepage.resources
+E:\Coursework\Coursework\obj\Debug\Coursework.frmUserStatistics.resources
+E:\Coursework\Coursework\obj\Debug\Coursework.frmViewCompanies.resources
+E:\Coursework\Coursework\obj\Debug\Coursework.frmViewEmployees.resources
+E:\Coursework\Coursework\obj\Debug\Coursework.frmViewNests.resources
+E:\Coursework\Coursework\obj\Debug\Coursework.frmViewSuperusers.resources
+E:\Coursework\Coursework\obj\Debug\Coursework.Properties.Resources.resources
+E:\Coursework\Coursework\obj\Debug\Coursework.csproj.GenerateResource.cache
+E:\Coursework\Coursework\obj\Debug\Coursework.csproj.CoreCompileInputs.cache
+E:\Coursework\Coursework\obj\Debug\Coursework.exe
+E:\Coursework\Coursework\obj\Debug\Coursework.pdb
+C:\Users\kate\OneDrive\Desktop\Computing\Coursework\Coursework\bin\Debug\Coursework.exe.config
+C:\Users\kate\OneDrive\Desktop\Computing\Coursework\Coursework\bin\Debug\Coursework.exe
+C:\Users\kate\OneDrive\Desktop\Computing\Coursework\Coursework\bin\Debug\Coursework.pdb
+C:\Users\kate\OneDrive\Desktop\Computing\Coursework\Coursework\obj\Debug\Coursework.csprojAssemblyReference.cache
+C:\Users\kate\OneDrive\Desktop\Computing\Coursework\Coursework\obj\Debug\Coursework.Form1.resources
+C:\Users\kate\OneDrive\Desktop\Computing\Coursework\Coursework\obj\Debug\Coursework.frmAddCompany.resources
+C:\Users\kate\OneDrive\Desktop\Computing\Coursework\Coursework\obj\Debug\Coursework.frmAddGarment.resources
+C:\Users\kate\OneDrive\Desktop\Computing\Coursework\Coursework\obj\Debug\Coursework.frmAddNest.resources
+C:\Users\kate\OneDrive\Desktop\Computing\Coursework\Coursework\obj\Debug\Coursework.frmAddUser.resources
+C:\Users\kate\OneDrive\Desktop\Computing\Coursework\Coursework\obj\Debug\Coursework.frmChangeMyDetails.resources
+C:\Users\kate\OneDrive\Desktop\Computing\Coursework\Coursework\obj\Debug\Coursework.frmCompaniesHomepage.resources
+C:\Users\kate\OneDrive\Desktop\Computing\Coursework\Coursework\obj\Debug\Coursework.frmCompanyStatistics.resources
+C:\Users\kate\OneDrive\Desktop\Computing\Coursework\Coursework\obj\Debug\Coursework.frmDeleteCompany.resources
+C:\Users\kate\OneDrive\Desktop\Computing\Coursework\Coursework\obj\Debug\Coursework.frmDeleteUser.resources
+C:\Users\kate\OneDrive\Desktop\Computing\Coursework\Coursework\obj\Debug\Coursework.frmEditCompanyDetails.resources
+C:\Users\kate\OneDrive\Desktop\Computing\Coursework\Coursework\obj\Debug\Coursework.frmEditEmployees.resources
+C:\Users\kate\OneDrive\Desktop\Computing\Coursework\Coursework\obj\Debug\Coursework.frmEditUserDetails.resources
+C:\Users\kate\OneDrive\Desktop\Computing\Coursework\Coursework\obj\Debug\Coursework.frmLogin.resources
+C:\Users\kate\OneDrive\Desktop\Computing\Coursework\Coursework\obj\Debug\Coursework.frmNestStatus.resources
+C:\Users\kate\OneDrive\Desktop\Computing\Coursework\Coursework\obj\Debug\Coursework.frmSelectMACStatistics.resources
+C:\Users\kate\OneDrive\Desktop\Computing\Coursework\Coursework\obj\Debug\Coursework.frmSuperuserHomepage.resources
+C:\Users\kate\OneDrive\Desktop\Computing\Coursework\Coursework\obj\Debug\Coursework.frmSuperuserViewCompanies.resources
+C:\Users\kate\OneDrive\Desktop\Computing\Coursework\Coursework\obj\Debug\Coursework.frmUserDetails.resources
+C:\Users\kate\OneDrive\Desktop\Computing\Coursework\Coursework\obj\Debug\Coursework.frmUserHomepage.resources
+C:\Users\kate\OneDrive\Desktop\Computing\Coursework\Coursework\obj\Debug\Coursework.frmUserStatistics.resources
+C:\Users\kate\OneDrive\Desktop\Computing\Coursework\Coursework\obj\Debug\Coursework.frmViewCompanies.resources
+C:\Users\kate\OneDrive\Desktop\Computing\Coursework\Coursework\obj\Debug\Coursework.frmViewEmployees.resources
+C:\Users\kate\OneDrive\Desktop\Computing\Coursework\Coursework\obj\Debug\Coursework.frmViewNests.resources
+C:\Users\kate\OneDrive\Desktop\Computing\Coursework\Coursework\obj\Debug\Coursework.frmViewSuperusers.resources
+C:\Users\kate\OneDrive\Desktop\Computing\Coursework\Coursework\obj\Debug\Coursework.Properties.Resources.resources
+C:\Users\kate\OneDrive\Desktop\Computing\Coursework\Coursework\obj\Debug\Coursework.csproj.GenerateResource.cache
+C:\Users\kate\OneDrive\Desktop\Computing\Coursework\Coursework\obj\Debug\Coursework.csproj.CoreCompileInputs.cache
+C:\Users\kate\OneDrive\Desktop\Computing\Coursework\Coursework\obj\Debug\Coursework.exe
+C:\Users\kate\OneDrive\Desktop\Computing\Coursework\Coursework\obj\Debug\Coursework.pdb
